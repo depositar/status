@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.depositar.io): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [depositar](data.depositar.io), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [depositar](https://data.depositar.io), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/depositar/status/workflows/Uptime%20CI/badge.svg)](https://github.com/depositar/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/depositar/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/depositar/status/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -26,5 +26,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [depositar](data.depositar.io)
+- Code: [MIT](./LICENSE) © [The depositar team](https://data.depositar.io)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
