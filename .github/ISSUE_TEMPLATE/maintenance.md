@@ -9,5 +9,5 @@ labels: 'maintenance'
 <!--
 start: 2021-01-01T11:00:00+08:00
 end: 2021-01-01T12:00:00+08:00
-expectedDown: depositar
+expectedDown: depositar, depositar-demo
 -->
