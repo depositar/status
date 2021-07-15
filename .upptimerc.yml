@@ -14,7 +14,7 @@ status-website:
   cname: status.depositar.io
   # baseUrl: /your-repo-name
   logoUrl: https://github.com/depositar/status/raw/master/assets/logo_img_c.svg
-  name: status
+  name: depositar Status
   favicon: https://github.com/depositar/status/raw/master/assets/favicon-32x32.png
   faviconSvg: https://github.com/depositar/status/raw/master/assets/logo_img_c.svg
   introTitle:
