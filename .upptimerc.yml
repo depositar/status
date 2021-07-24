@@ -13,10 +13,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.depositar.io
   # baseUrl: /your-repo-name
-  logoUrl: https://github.com/depositar/status/raw/master/assets/logo_img_c.svg
+  logoUrl: https://raw.githubusercontent.com/depositar/status/master/assets/logo_img_c.svg
   name: depositar Status
-  favicon: https://github.com/depositar/status/raw/master/assets/favicon-32x32.png
-  faviconSvg: https://github.com/depositar/status/raw/master/assets/logo_img_c.svg
+  favicon: https://raw.githubusercontent.com/depositar/status/master/assets/favicon-32x32.png
+  faviconSvg: https://raw.githubusercontent.com/depositar/status/master/assets/logo_img_c.svg
   introTitle:
   introMessage:
   theme: dark
