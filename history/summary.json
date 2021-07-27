@@ -4,9 +4,9 @@
     "url": "https://data.depositar.io/",
     "icon": "https://favicons.githubusercontent.com/data.depositar.io",
     "slug": "depositar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.67%",
@@ -16,6 +16,7 @@
     "timeMonth": 1456,
     "timeYear": 1456,
     "dailyMinutesDown": {
+      "2021-07-27": 1,
       "2021-07-23": 11,
       "2021-07-21": 24,
       "2021-07-19": 5,
@@ -28,9 +29,9 @@
     "url": "https://demo.depositar.io/",
     "icon": "https://favicons.githubusercontent.com/demo.depositar.io",
     "slug": "depositar-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
@@ -40,6 +41,7 @@
     "timeMonth": 1189,
     "timeYear": 1189,
     "dailyMinutesDown": {
+      "2021-07-27": 0,
       "2021-07-19": 6
     }
   }
