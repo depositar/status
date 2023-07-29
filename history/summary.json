@@ -6,17 +6,16 @@
     "slug": "depositar",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.63%",
     "time": 1519,
-    "timeDay": 1281,
-    "timeWeek": 1284,
-    "timeMonth": 1279,
+    "timeDay": 1245,
+    "timeWeek": 1265,
+    "timeMonth": 1273,
     "timeYear": 1770,
     "dailyMinutesDown": {
-      "2023-07-28": 4,
       "2023-07-13": 15,
       "2023-06-30": 38,
       "2023-06-17": 21,
@@ -47,10 +46,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 1297,
-    "timeDay": 920,
-    "timeWeek": 1069,
-    "timeMonth": 1479,
-    "timeYear": 1481,
+    "timeDay": 961,
+    "timeWeek": 1035,
+    "timeMonth": 1469,
+    "timeYear": 1482,
     "dailyMinutesDown": {
       "2023-06-14": 40,
       "2023-06-09": 26,
@@ -61,8 +60,7 @@
       "2023-01-25": 16,
       "2022-11-22": 471,
       "2022-11-21": 881,
-      "2022-10-22": 118,
-      "2022-07-29": 34
+      "2022-10-22": 118
     }
   }
 ]
