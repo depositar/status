@@ -9,6 +9,8 @@ sites:
     url: https://demo.depositar.io/
   - name: depositar-binder
     url: https://binder.depositar.io/
+  - name: rdm-hub
+    url: https://rdm.depositar.io/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
