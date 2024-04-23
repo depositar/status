@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.88%",
-    "time": 2036,
-    "timeDay": 1200,
-    "timeWeek": 1444,
-    "timeMonth": 1456,
-    "timeYear": 2069,
+    "uptimeYear": "99.89%",
+    "time": 2038,
+    "timeDay": 1576,
+    "timeWeek": 1598,
+    "timeMonth": 1495,
+    "timeYear": 2060,
     "dailyMinutesDown": {
       "2024-03-28": 15,
       "2024-01-19": 17,
@@ -37,9 +37,7 @@
       "2023-06-17": 21,
       "2023-06-09": 15,
       "2023-06-08": 20,
-      "2023-04-28": 21,
-      "2023-04-24": 21,
-      "2023-04-20": 72
+      "2023-04-28": 21
     }
   },
   {
@@ -52,12 +50,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
-    "time": 1363,
-    "timeDay": 1069,
-    "timeWeek": 1114,
-    "timeMonth": 1131,
-    "timeYear": 1442,
+    "uptimeYear": "99.85%",
+    "time": 1365,
+    "timeDay": 1227,
+    "timeWeek": 1249,
+    "timeMonth": 1155,
+    "timeYear": 1433,
     "dailyMinutesDown": {
       "2024-01-08": 37,
       "2023-11-21": 16,
@@ -75,8 +73,7 @@
       "2023-06-14": 40,
       "2023-06-09": 26,
       "2023-05-29": 90,
-      "2023-04-28": 21,
-      "2023-04-20": 72
+      "2023-04-28": 21
     }
   },
   {
@@ -85,16 +82,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/binder.depositar.io.ico",
     "slug": "depositar-binder",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.91%",
-    "time": 848,
-    "timeDay": 581,
-    "timeWeek": 846,
-    "timeMonth": 843,
-    "timeYear": 848,
+    "uptimeYear": "99.92%",
+    "time": 857,
+    "timeDay": 1014,
+    "timeWeek": 995,
+    "timeMonth": 859,
+    "timeYear": 857,
     "dailyMinutesDown": {
       "2024-04-03": 142
     }
@@ -110,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1164,
-    "timeDay": 998,
-    "timeWeek": 1106,
-    "timeMonth": 1154,
-    "timeYear": 1164,
+    "time": 1177,
+    "timeDay": 1279,
+    "timeWeek": 1216,
+    "timeMonth": 1158,
+    "timeYear": 1177,
     "dailyMinutesDown": {}
   }
 ]
