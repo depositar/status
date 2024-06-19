@@ -1,7 +1,7 @@
 url: https://demo.depositar.io/
-status: up
-code: 200
-responseTime: 986
-lastUpdated: 2024-06-18T23:06:29.310Z
+status: down
+code: 503
+responseTime: 674
+lastUpdated: 2024-06-19T15:06:09.048Z
 startTime: 2021-07-14T01:11:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
