@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.55%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.87%",
     "time": 2231,
-    "timeDay": 2234,
-    "timeWeek": 1880,
-    "timeMonth": 2393,
-    "timeYear": 2219,
+    "timeDay": 1951,
+    "timeWeek": 1889,
+    "timeMonth": 2398,
+    "timeYear": 2223,
     "dailyMinutesDown": {
       "2024-08-29": 46,
       "2024-08-25": 19,
@@ -39,9 +39,7 @@
       "2023-09-24": 50,
       "2023-09-23": 22,
       "2023-09-19": 43,
-      "2023-09-18": 16,
-      "2023-09-07": 25,
-      "2023-09-06": 10
+      "2023-09-18": 16
     }
   },
   {
@@ -56,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1158,
-    "timeDay": 1406,
-    "timeWeek": 1224,
-    "timeMonth": 1193,
+    "timeDay": 971,
+    "timeWeek": 1203,
+    "timeMonth": 1190,
     "timeYear": 1137,
     "dailyMinutesDown": {
       "2024-07-13": 34,
@@ -73,9 +71,7 @@
       "2023-10-02": 333,
       "2023-09-24": 50,
       "2023-09-23": 4,
-      "2023-09-19": 40,
-      "2023-09-07": 25,
-      "2023-09-06": 7
+      "2023-09-19": 40
     }
   },
   {
@@ -89,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 867,
-    "timeDay": 1086,
-    "timeWeek": 937,
-    "timeMonth": 899,
-    "timeYear": 867,
+    "time": 868,
+    "timeDay": 840,
+    "timeWeek": 917,
+    "timeMonth": 907,
+    "timeYear": 868,
     "dailyMinutesDown": {
       "2024-04-03": 142
     }
@@ -105,15 +101,15 @@
     "slug": "rdm-hub",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.79%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1205,
-    "timeDay": 1246,
-    "timeWeek": 1259,
-    "timeMonth": 1222,
-    "timeYear": 1205,
+    "time": 1204,
+    "timeDay": 1014,
+    "timeWeek": 1241,
+    "timeMonth": 1216,
+    "timeYear": 1204,
     "dailyMinutesDown": {
       "2024-09-03": 17,
       "2024-04-29": 22
