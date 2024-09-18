@@ -4,17 +4,17 @@
     "url": "https://data.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/data.depositar.io.ico",
     "slug": "depositar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.88%",
-    "time": 2316,
-    "timeDay": 2020,
-    "timeWeek": 1999,
-    "timeMonth": 2386,
-    "timeYear": 2196,
+    "time": 2314,
+    "timeDay": 1362,
+    "timeWeek": 1882,
+    "timeMonth": 2348,
+    "timeYear": 2194,
     "dailyMinutesDown": {
       "2024-08-29": 46,
       "2024-08-25": 19,
@@ -37,8 +37,7 @@
       "2023-11-21": 16,
       "2023-11-19": 15,
       "2023-09-24": 50,
-      "2023-09-23": 22,
-      "2023-09-19": 43
+      "2023-09-23": 22
     }
   },
   {
@@ -46,17 +45,17 @@
     "url": "https://demo.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.depositar.io.ico",
     "slug": "depositar-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1160,
-    "timeDay": 1297,
-    "timeWeek": 1175,
-    "timeMonth": 1188,
-    "timeYear": 1142,
+    "time": 1159,
+    "timeDay": 916,
+    "timeWeek": 1124,
+    "timeMonth": 1166,
+    "timeYear": 1141,
     "dailyMinutesDown": {
       "2024-07-13": 34,
       "2024-06-19": 17,
@@ -69,8 +68,7 @@
       "2023-11-19": 15,
       "2023-10-02": 333,
       "2023-09-24": 50,
-      "2023-09-23": 4,
-      "2023-09-19": 40
+      "2023-09-23": 4
     }
   },
   {
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 870,
-    "timeDay": 1039,
-    "timeWeek": 939,
-    "timeMonth": 903,
+    "timeDay": 875,
+    "timeWeek": 959,
+    "timeMonth": 898,
     "timeYear": 870,
     "dailyMinutesDown": {
       "2024-04-03": 142
@@ -105,8 +103,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1208,
-    "timeDay": 1350,
-    "timeWeek": 1279,
+    "timeDay": 1325,
+    "timeWeek": 1220,
     "timeMonth": 1229,
     "timeYear": 1208,
     "dailyMinutesDown": {
