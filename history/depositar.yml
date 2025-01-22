@@ -1,7 +1,7 @@
 url: https://data.depositar.io/
-status: up
-code: 200
-responseTime: 14664
-lastUpdated: 2025-01-22T01:08:26.290Z
+status: down
+code: 502
+responseTime: 712
+lastUpdated: 2025-01-22T07:37:37.501Z
 startTime: 2021-07-14T01:11:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
