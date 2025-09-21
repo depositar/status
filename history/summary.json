@@ -84,9 +84,9 @@
     "url": "https://binder.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/binder.depositar.io.ico",
     "slug": "depositar-binder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -96,6 +96,7 @@
     "timeMonth": 893,
     "timeYear": 953,
     "dailyMinutesDown": {
+      "2025-09-21": 0,
       "2025-01-02": 77,
       "2024-10-31": 56,
       "2024-09-26": 21
