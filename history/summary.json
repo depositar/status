@@ -14,7 +14,7 @@
     "timeDay": 3987,
     "timeWeek": 4356,
     "timeMonth": 4468,
-    "timeYear": 3692,
+    "timeYear": 3703,
     "dailyMinutesDown": {
       "2026-02-21": 26,
       "2026-02-18": 37,
@@ -58,7 +58,7 @@
     "timeDay": 822,
     "timeWeek": 1076,
     "timeMonth": 1092,
-    "timeYear": 1167,
+    "timeYear": 1168,
     "dailyMinutesDown": {
       "2026-02-21": 24,
       "2026-02-13": 46,
@@ -78,7 +78,7 @@
     "url": "https://binder.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/binder.depositar.io.ico",
     "slug": "depositar-binder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
