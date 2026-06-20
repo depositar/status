@@ -81,9 +81,9 @@
     "url": "https://binder.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/binder.depositar.io.ico",
     "slug": "depositar-binder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
@@ -102,7 +102,8 @@
       "2026-04-18": 225,
       "2026-05-05": 25,
       "2026-05-15": 301,
-      "2026-05-14": 128
+      "2026-05-14": 128,
+      "2026-06-20": 0
     }
   },
   {
