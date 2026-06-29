@@ -4,13 +4,13 @@
     "url": "https://data.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/data.depositar.io.ico",
     "slug": "depositar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.17%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.79%",
-    "time": 3712,
+    "time": 3716,
     "timeDay": 2852,
     "timeWeek": 2425,
     "timeMonth": 2270,
@@ -41,7 +41,8 @@
       "2026-04-17": 46,
       "2026-05-05": 30,
       "2026-05-17": 52,
-      "2026-06-24": 84
+      "2026-06-24": 84,
+      "2026-06-29": 0
     }
   },
   {
