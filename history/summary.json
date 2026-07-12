@@ -4,13 +4,13 @@
     "url": "https://data.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/data.depositar.io.ico",
     "slug": "depositar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "97.65%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.76%",
-    "time": 3743,
+    "uptimeDay": "96.51%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.75%",
+    "time": 3746,
     "timeDay": 2470,
     "timeWeek": 2461,
     "timeMonth": 2470,
@@ -44,7 +44,7 @@
       "2026-06-24": 84,
       "2026-06-29": 113,
       "2026-07-11": 34,
-      "2026-07-12": 17
+      "2026-07-12": 34
     }
   },
   {
@@ -52,11 +52,11 @@
     "url": "https://demo.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.depositar.io.ico",
     "slug": "depositar-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.87%",
     "time": 1203,
     "timeDay": 1557,
@@ -79,7 +79,7 @@
       "2026-05-05": 27,
       "2026-05-17": 45,
       "2026-06-30": 212,
-      "2026-07-12": 10
+      "2026-07-12": 9
     }
   },
   {
@@ -87,13 +87,13 @@
     "url": "https://binder.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/binder.depositar.io.ico",
     "slug": "depositar-binder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "97.26%",
     "uptimeYear": "99.34%",
-    "time": 842,
+    "time": 843,
     "timeDay": 864,
     "timeWeek": 784,
     "timeMonth": 757,
@@ -111,7 +111,7 @@
       "2026-05-14": 128,
       "2026-06-21": 628,
       "2026-06-20": 570,
-      "2026-07-12": 3
+      "2026-07-12": 2
     }
   },
   {
