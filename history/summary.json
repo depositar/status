@@ -4,17 +4,17 @@
     "url": "https://data.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/data.depositar.io.ico",
     "slug": "depositar",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "97.68%",
+    "uptimeDay": "97.65%",
     "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.44%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.76%",
-    "time": 3742,
-    "timeDay": 2344,
-    "timeWeek": 2435,
-    "timeMonth": 2462,
-    "timeYear": 3853,
+    "time": 3743,
+    "timeDay": 2470,
+    "timeWeek": 2461,
+    "timeMonth": 2470,
+    "timeYear": 3850,
     "dailyMinutesDown": {
       "2025-07-14": 24,
       "2025-07-15": 61,
@@ -44,7 +44,7 @@
       "2026-06-24": 84,
       "2026-06-29": 113,
       "2026-07-11": 34,
-      "2026-07-12": 16
+      "2026-07-12": 17
     }
   },
   {
@@ -52,16 +52,16 @@
     "url": "https://demo.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.depositar.io.ico",
     "slug": "depositar-demo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.50%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "99.87%",
     "time": 1203,
-    "timeDay": 1665,
-    "timeWeek": 1484,
-    "timeMonth": 1467,
+    "timeDay": 1557,
+    "timeWeek": 1463,
+    "timeMonth": 1460,
     "timeYear": 1219,
     "dailyMinutesDown": {
       "2025-07-25": 27,
@@ -79,7 +79,7 @@
       "2026-05-05": 27,
       "2026-05-17": 45,
       "2026-06-30": 212,
-      "2026-07-12": 9
+      "2026-07-12": 10
     }
   },
   {
@@ -87,16 +87,16 @@
     "url": "https://binder.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/binder.depositar.io.ico",
     "slug": "depositar-binder",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "97.26%",
     "uptimeYear": "99.34%",
-    "time": 843,
-    "timeDay": 938,
-    "timeWeek": 791,
-    "timeMonth": 758,
+    "time": 842,
+    "timeDay": 864,
+    "timeWeek": 784,
+    "timeMonth": 757,
     "timeYear": 832,
     "dailyMinutesDown": {
       "2025-09-22": 232,
@@ -111,7 +111,7 @@
       "2026-05-14": 128,
       "2026-06-21": 628,
       "2026-06-20": 570,
-      "2026-07-12": 2
+      "2026-07-12": 3
     }
   },
   {
