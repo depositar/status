@@ -10,13 +10,12 @@
     "uptimeWeek": "98.99%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.75%",
-    "time": 3767,
-    "timeDay": 3494,
-    "timeWeek": 3040,
-    "timeMonth": 2662,
+    "time": 3764,
+    "timeDay": 3555,
+    "timeWeek": 3021,
+    "timeMonth": 2667,
     "timeYear": 3856,
     "dailyMinutesDown": {
-      "2025-07-15": 61,
       "2025-07-16": 27,
       "2025-07-25": 30,
       "2025-08-31": 67,
@@ -54,14 +53,14 @@
     "slug": "depositar-demo",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.87%",
-    "time": 1206,
-    "timeDay": 1568,
-    "timeWeek": 1550,
-    "timeMonth": 1476,
+    "time": 1207,
+    "timeDay": 1529,
+    "timeWeek": 1551,
+    "timeMonth": 1483,
     "timeYear": 1225,
     "dailyMinutesDown": {
       "2025-07-25": 27,
@@ -78,8 +77,7 @@
       "2026-04-17": 43,
       "2026-05-05": 27,
       "2026-05-17": 45,
-      "2026-06-30": 212,
-      "2026-07-14": 10
+      "2026-06-30": 212
     }
   },
   {
@@ -89,14 +87,14 @@
     "slug": "depositar-binder",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "97.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.27%",
     "uptimeYear": "99.34%",
     "time": 857,
-    "timeDay": 748,
-    "timeWeek": 815,
-    "timeMonth": 768,
+    "timeDay": 924,
+    "timeWeek": 826,
+    "timeMonth": 773,
     "timeYear": 832,
     "dailyMinutesDown": {
       "2025-09-22": 232,
@@ -110,8 +108,7 @@
       "2026-05-15": 301,
       "2026-05-14": 128,
       "2026-06-21": 628,
-      "2026-06-20": 570,
-      "2026-07-14": 3
+      "2026-06-20": 570
     }
   },
   {
@@ -125,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1047,
-    "timeDay": 609,
-    "timeWeek": 525,
-    "timeMonth": 538,
-    "timeYear": 955,
+    "time": 1046,
+    "timeDay": 654,
+    "timeWeek": 549,
+    "timeMonth": 540,
+    "timeYear": 950,
     "dailyMinutesDown": {
       "2025-07-25": 24
     }
