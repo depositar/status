@@ -4,15 +4,15 @@
     "url": "https://data.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/data.depositar.io.ico",
     "slug": "depositar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "99.73%",
-    "time": 3814,
+    "time": 3816,
     "timeDay": 26264,
-    "timeWeek": 7410,
+    "timeWeek": 7688,
     "timeMonth": 4434,
     "timeYear": 3971,
     "dailyMinutesDown": {
@@ -49,7 +49,7 @@
       "2026-07-19": 34,
       "2026-07-20": 51,
       "2026-07-21": 17,
-      "2026-07-24": 10
+      "2026-07-24": 16
     }
   },
   {
@@ -57,15 +57,15 @@
     "url": "https://demo.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.depositar.io.ico",
     "slug": "depositar-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "99.34%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.87%",
-    "time": 1217,
+    "time": 1216,
     "timeDay": 1358,
-    "timeWeek": 1440,
+    "timeWeek": 1451,
     "timeMonth": 1473,
     "timeYear": 1236,
     "dailyMinutesDown": {
@@ -84,7 +84,7 @@
       "2026-05-05": 27,
       "2026-05-17": 45,
       "2026-06-30": 212,
-      "2026-07-24": 10
+      "2026-07-24": 9
     }
   },
   {
@@ -92,13 +92,13 @@
     "url": "https://binder.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/binder.depositar.io.ico",
     "slug": "depositar-binder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.33%",
-    "time": 886,
+    "time": 885,
     "timeDay": 813,
     "timeWeek": 753,
     "timeMonth": 1179,
@@ -116,7 +116,8 @@
       "2026-05-14": 128,
       "2026-06-21": 628,
       "2026-06-20": 570,
-      "2026-07-16": 15
+      "2026-07-16": 15,
+      "2026-07-24": 2
     }
   },
   {
