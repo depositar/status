@@ -7,16 +7,15 @@
     "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "98.69%",
-    "uptimeWeek": "98.43%",
+    "uptimeWeek": "98.63%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.73%",
     "time": 3913,
     "timeDay": 31839,
-    "timeWeek": 10133,
-    "timeMonth": 5389,
-    "timeYear": 4089,
+    "timeWeek": 10569,
+    "timeMonth": 5401,
+    "timeYear": 4088,
     "dailyMinutesDown": {
-      "2025-07-25": 30,
       "2025-08-31": 67,
       "2025-10-04": 57,
       "2025-10-03": 129,
@@ -59,17 +58,16 @@
     "slug": "depositar-demo",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.87%",
     "time": 1216,
-    "timeDay": 1269,
-    "timeWeek": 1430,
-    "timeMonth": 1465,
+    "timeDay": 1185,
+    "timeWeek": 1409,
+    "timeMonth": 1466,
     "timeYear": 1236,
     "dailyMinutesDown": {
-      "2025-07-25": 27,
       "2025-10-30": 20,
       "2025-12-23": 16,
       "2026-01-15": 36,
@@ -83,8 +81,7 @@
       "2026-04-17": 43,
       "2026-05-05": 27,
       "2026-05-17": 45,
-      "2026-06-30": 212,
-      "2026-07-24": 12
+      "2026-06-30": 212
     }
   },
   {
@@ -94,15 +91,15 @@
     "slug": "depositar-binder",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.33%",
-    "time": 885,
-    "timeDay": 684,
-    "timeWeek": 740,
-    "timeMonth": 1166,
-    "timeYear": 874,
+    "time": 884,
+    "timeDay": 551,
+    "timeWeek": 724,
+    "timeMonth": 1162,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2025-09-22": 232,
       "2025-09-21": 1124,
@@ -116,8 +113,7 @@
       "2026-05-14": 128,
       "2026-06-21": 628,
       "2026-06-20": 570,
-      "2026-07-16": 15,
-      "2026-07-24": 5
+      "2026-07-16": 15
     }
   },
   {
@@ -132,12 +128,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1034,
-    "timeDay": 559,
-    "timeWeek": 437,
-    "timeMonth": 518,
-    "timeYear": 927,
-    "dailyMinutesDown": {
-      "2025-07-25": 24
-    }
+    "timeDay": 868,
+    "timeWeek": 511,
+    "timeMonth": 527,
+    "timeYear": 925,
+    "dailyMinutesDown": {}
   }
 ]
