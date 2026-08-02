@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.32%",
+    "uptimeWeek": "99.49%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.72%",
     "time": 3917,
-    "timeDay": 2517,
-    "timeWeek": 2563,
+    "timeDay": 2132,
+    "timeWeek": 2548,
     "timeMonth": 5051,
     "timeYear": 4049,
     "dailyMinutesDown": {
@@ -68,8 +68,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1231,
-    "timeDay": 1404,
-    "timeWeek": 1491,
+    "timeDay": 1104,
+    "timeWeek": 1500,
     "timeMonth": 1476,
     "timeYear": 1246,
     "dailyMinutesDown": {
@@ -102,7 +102,7 @@
     "uptimeYear": "99.33%",
     "time": 880,
     "timeDay": 728,
-    "timeWeek": 766,
+    "timeWeek": 773,
     "timeMonth": 1120,
     "timeYear": 869,
     "dailyMinutesDown": {
@@ -126,17 +126,19 @@
     "url": "https://rdm.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/rdm.depositar.io.ico",
     "slug": "rdm-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1019,
+    "time": 1018,
     "timeDay": 483,
     "timeWeek": 437,
     "timeMonth": 499,
     "timeYear": 898,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-02": 0
+    }
   }
 ]
