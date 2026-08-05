@@ -6,10 +6,10 @@
     "slug": "depositar",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "99.71%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.72%",
     "time": 3861,
     "timeDay": 9135,
     "timeWeek": 4105,
@@ -54,8 +54,7 @@
       "2026-07-29": 17,
       "2026-07-31": 17,
       "2026-08-01": 17,
-      "2026-08-04": 17,
-      "2026-08-05": 11
+      "2026-08-04": 17
     }
   },
   {
