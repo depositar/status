@@ -4,15 +4,15 @@
     "url": "https://data.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/data.depositar.io.ico",
     "slug": "depositar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "94.46%",
-    "uptimeMonth": "97.89%",
-    "uptimeYear": "99.62%",
-    "time": 3993,
-    "timeDay": 4413,
-    "timeWeek": 6614,
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "94.42%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "99.61%",
+    "time": 3996,
+    "timeDay": 2036,
+    "timeWeek": 6858,
     "timeMonth": 5830,
     "timeYear": 4183,
     "dailyMinutesDown": {
@@ -57,7 +57,8 @@
       "2026-08-04": 17,
       "2026-08-05": 456,
       "2026-08-06": 52,
-      "2026-08-07": 21
+      "2026-08-07": 21,
+      "2026-08-08": 17
     }
   },
   {
@@ -65,15 +66,15 @@
     "url": "https://demo.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.depositar.io.ico",
     "slug": "depositar-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.87%",
     "time": 1236,
-    "timeDay": 1227,
-    "timeWeek": 1379,
+    "timeDay": 1245,
+    "timeWeek": 1392,
     "timeMonth": 1472,
     "timeYear": 1251,
     "dailyMinutesDown": {
@@ -91,7 +92,8 @@
       "2026-05-05": 27,
       "2026-05-17": 45,
       "2026-06-30": 212,
-      "2026-08-05": 19
+      "2026-08-05": 19,
+      "2026-08-08": 9
     }
   },
   {
@@ -99,15 +101,15 @@
     "url": "https://binder.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/binder.depositar.io.ico",
     "slug": "depositar-binder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.33%",
-    "time": 877,
-    "timeDay": 568,
-    "timeWeek": 734,
+    "time": 878,
+    "timeDay": 561,
+    "timeWeek": 748,
     "timeMonth": 1102,
     "timeYear": 866,
     "dailyMinutesDown": {
@@ -123,7 +125,8 @@
       "2026-05-14": 128,
       "2026-06-21": 628,
       "2026-06-20": 570,
-      "2026-07-16": 15
+      "2026-07-16": 15,
+      "2026-08-08": 2
     }
   },
   {
@@ -138,7 +141,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1004,
-    "timeDay": 543,
+    "timeDay": 527,
     "timeWeek": 501,
     "timeMonth": 499,
     "timeYear": 862,
