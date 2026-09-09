@@ -4,17 +4,17 @@
     "url": "https://data.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/data.depositar.io.ico",
     "slug": "depositar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "96.12%",
-    "uptimeMonth": "98.17%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "95.96%",
+    "uptimeMonth": "98.14%",
     "uptimeYear": "99.47%",
-    "time": 4142,
+    "time": 4144,
     "timeDay": 2558,
     "timeWeek": 3304,
-    "timeMonth": 4479,
-    "timeYear": 4244,
+    "timeMonth": 4499,
+    "timeYear": 4246,
     "dailyMinutesDown": {
       "2025-10-04": 57,
       "2025-10-03": 129,
@@ -76,7 +76,7 @@
       "2026-09-06": 17,
       "2026-09-07": 40,
       "2026-09-08": 17,
-      "2026-09-09": 17
+      "2026-09-09": 34
     }
   },
   {
@@ -84,16 +84,16 @@
     "url": "https://demo.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.depositar.io.ico",
     "slug": "depositar-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.87%",
-    "time": 1263,
+    "time": 1264,
     "timeDay": 1215,
     "timeWeek": 1423,
-    "timeMonth": 1507,
+    "timeMonth": 1504,
     "timeYear": 1289,
     "dailyMinutesDown": {
       "2025-10-30": 20,
@@ -120,16 +120,16 @@
     "url": "https://binder.depositar.io/",
     "icon": "https://icons.duckduckgo.com/ip3/binder.depositar.io.ico",
     "slug": "depositar-binder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "99.25%",
     "time": 862,
     "timeDay": 643,
     "timeWeek": 830,
-    "timeMonth": 788,
+    "timeMonth": 784,
     "timeYear": 853,
     "dailyMinutesDown": {
       "2025-09-22": 232,
@@ -147,7 +147,7 @@
       "2026-07-16": 15,
       "2026-08-31": 40,
       "2026-08-30": 375,
-      "2026-09-09": 3
+      "2026-09-09": 2
     }
   },
   {
@@ -164,8 +164,8 @@
     "time": 962,
     "timeDay": 636,
     "timeWeek": 488,
-    "timeMonth": 713,
-    "timeYear": 802,
+    "timeMonth": 727,
+    "timeYear": 801,
     "dailyMinutesDown": {}
   }
 ]
